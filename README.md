@@ -69,5 +69,3 @@
 - Collaboration with NASA’s OSAM and other on-orbit assembly programs  
 
 ---
-
-## Repository Structure
