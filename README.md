@@ -1,70 +1,73 @@
-# AstraLink — RECLAIM
+# AstraLink: Orbital Ring Infrastructure
 
-**RECLAIM** (Robotic Collection and Launch-Enabled Autonomous Interceptor Module) is a modular orbital ring infrastructure concept for **autonomous debris collection, satellite repair, and orbital assembly**.  
-It uses **AI-driven swarm robotics** to build a self-assembling orbital platform around Earth, enabling sustainable **space manufacturing, servicing, and future orbital missions**.
+**AstraLink** is a modular orbital ring infrastructure concept designed to encircle Earth with a self-assembling platform for satellite repair, debris reclamation, in-orbit manufacturing, and space-based operations. **RECLAIM (Robotic Collection and Launch-Enabled Autonomous Interceptor Module)** is the autonomous system at the core of AstraLink, capable of collecting debris, repairing satellites, and assisting in orbital assembly using AI-driven swarm robotics.
 
 ---
 
 ## Project Overview
-- **Goal:** Create a scalable orbital system capable of autonomous assembly, debris reclamation, and satellite servicing.  
-- **Core Concept:** RECLAIM modules operate independently or as a swarm to repair satellites, collect debris, and assemble orbital infrastructure.  
-- **Impact:** Reduces space debris, lowers launch costs, and enables sustainable space operations and future space tourism.  
+- **Goal:** Build a scalable, modular orbital infrastructure for satellite servicing, debris management, and in-orbit construction.  
+- **Key Concept:** Autonomous RECLAIM units operate as a coordinated swarm to handle repairs, assembly, and debris conversion into usable components.  
+- **Impact:** Reduces space debris, enables sustainable manufacturing, lowers mission costs, and opens possibilities for controlled space tourism.  
 
 ---
 
 ## Role of AI
-- **Target Recognition:** Detect debris and satellites in LEO.  
-- **Swarm Coordination:** Manage multiple RECLAIM units for simultaneous tasks.  
-- **Path Optimization & Autonomous Navigation:** Calculate best trajectories for assembly and repair.  
-- **Self-Diagnosis & Predictive Maintenance:** Monitor internal systems for faults and component wear.
+- **Swarm Coordination:** Manage multiple RECLAIM units performing simultaneous tasks.  
+- **Path Optimization:** Calculate efficient trajectories for orbital assembly and satellite servicing.  
+- **Target Recognition:** Identify debris and malfunctioning satellites.  
+- **Predictive Maintenance:** Monitor module health and anticipate component failures.  
+- **Autonomous Navigation:** Ensure precise docking and orbital station-keeping without human intervention.  
 
 ---
 
 ## Development Phases
 
-### Phase 1 — Earth Prototype (RECLAIM Integration)
-- Build and test ground prototype (robotic arms, sensors, propulsion demonstrator).  
-- Simulate orbital dynamics, AI swarm coordination.  
-- **Estimated Cost:** $1.5M – $4M
+### Phase 1 — RECLAIM Integration & Earth Prototype
+- Build and test ground prototypes of RECLAIM modules, robotic arms, and sensors.  
+- Simulate swarm coordination, AI navigation, and orbital dynamics.  
+- Validate autonomous debris collection and docking algorithms.  
+- **Estimated Cost:** $1.5M – $4M  
 
-### Phase 2 — Orbital Deployment
-- Launch single flight prototype to LEO.  
-- Test autonomous navigation, debris capture, and docking.  
-- **Estimated Cost:** $8M – $35M
+### Phase 2 — Initial Orbital Deployment
+- Launch the first RECLAIM unit to Low Earth Orbit (LEO).  
+- Test autonomous navigation, debris capture, and satellite servicing.  
+- **Estimated Cost:** $8M – $35M  
 
-### Phase 3 — Multi-Unit Operations
-- Launch multiple RECLAIM units.  
-- Enable in-orbit docking, recycling, and small-scale assembly.  
-- **Estimated Cost:** $20M – $80M
+### Phase 3 — Multi-Unit Orbital Operations
+- Deploy multiple RECLAIM units to enable swarm-based repair and assembly.  
+- Begin small-scale modular ring construction and satellite recycling.  
+- **Estimated Cost:** $20M – $80M  
 
-### Phase 4 — Segment Expansion
-- Build and attach new orbital ring segment.  
-- Demonstrate large-scale modular assembly in orbit.  
-- **Estimated Cost:** $50M – $250M+
+### Phase 4 — Segment Expansion & Full Ring Construction
+- Build additional orbital segments and attach them to existing infrastructure.  
+- Demonstrate large-scale assembly and integration of orbital manufacturing units.  
+- **Estimated Cost:** $50M – $250M+  
 
 ---
 
 ## Technical Architecture
-- **Structure:** Lightweight composite frames with modular robotic arms  
-- **Propulsion:** Micro-ion/cold gas thrusters  
-- **Power:** Solar arrays + battery backup  
-- **Sensors:** LIDAR, cameras, IMUs, star trackers  
-- **Compute:** Edge AI for autonomous swarm control  
-- **Comms:** Laser + RF relay network  
+- **Structure:** Lightweight composite frames and modular robotic arms  
+- **Propulsion:** Micro-ion or cold-gas thrusters for precision movements  
+- **Power:** Solar arrays with battery backups  
+- **Sensors:** LIDAR, cameras, IMUs, star trackers for precise orientation  
+- **Compute:** Edge AI for swarm control, navigation, and decision-making  
+- **Communications:** Laser and RF relay networks for intra-swarm and Earth-link  
 
 ---
 
 ## Environmental Impact
-- Removes space debris, reduces collision risk  
-- No harmful effects on Earth's atmosphere or hemisphere  
-- Safe de-orbit protocols for materials re-entry  
+- Reduces orbital debris and collision risk  
+- No harmful effects on Earth's atmosphere or natural processes  
+- Safe de-orbiting protocols for recyclable materials  
 
 ---
 
 ## Future Scope
-- Orbital manufacturing and refueling systems  
-- Integration with AstraLink orbital ring  
-- Potential for human space tourism (controlled areas)  
-- Collaboration with NASA’s OSAM missions  
+- Orbital manufacturing and refueling stations  
+- Integration with future space missions and AstraLink expansion  
+- Human-accessible space tourism zones in controlled areas  
+- Collaboration with NASA’s OSAM and other on-orbit assembly programs  
 
+---
 
+## Repository Structure
